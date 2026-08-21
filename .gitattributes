@@ -1,0 +1,5 @@
+research2/data/raw/146.jpg filter=lfs diff=lfs merge=lfs -text
+research2/data/raw/149.jpg filter=lfs diff=lfs merge=lfs -text
+research2/data/raw/150.jpg filter=lfs diff=lfs merge=lfs -text
+research2/data/raw/151.jpg filter=lfs diff=lfs merge=lfs -text
+research2/data/raw/154.jpg filter=lfs diff=lfs merge=lfs -text
